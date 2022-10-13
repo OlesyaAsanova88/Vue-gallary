@@ -1,5 +1,7 @@
 # vue-gallery
 
+<img src="https://cdn.nur.kz/images/1120x630/f5f1fbe856ddf827.jpeg"/>
+
 ## Project setup
 ```
 npm install
