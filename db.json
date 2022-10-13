@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "image": "Рождение Венеры.png",
+            "name": "Рождение Венеры",
+            "painter": "Сандро Боттичелли",
+            "price": 1000000,
+            "article": "T1",
+            "available": true,
+            "category": "Картины"
+        },
+        {
+            "image": "Тайная вечеря.png",
+            "name": "Тайная вечеря",
+            "painter": "Леонардо да Винчи",
+            "price": 3000000,
+            "article": "T2",
+            "available": true,
+            "category": "Картины"
+        },
+        {
+            "image": "Сотворение Адама.png",
+            "name": "Сотворение Адама",
+            "painter": "Микеланджело",
+            "price": 5000000,
+            "article": "T3",
+            "available": true,
+            "category": "Картины"
+        },
+        {
+            "image": "Урок анотомии.png",
+            "name": "Урок анотомии",
+            "painter": "Рембрандт",
+            "price": "Продана на аукционе",
+            "article": "T4",
+            "available": false,
+            "category": "Картины"
+        }
+    ]
+}
